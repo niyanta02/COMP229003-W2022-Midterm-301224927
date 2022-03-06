@@ -5,6 +5,11 @@
   "scripts": {
     "start": "node ./server.js"
   },
+  "engine": {
+
+    "node": "14.x"
+
+  },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.4",
     "bootstrap": "^5.1.1",
@@ -30,10 +35,12 @@
     "Express",
     "EJS"
   ],
-  "author": "Julio Vinicius",
+  "author": "Niyanta",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/JViniX/comp229-W2022-midterm-template/issues"
   },
   "homepage": "https://github.com/JViniX/comp229-W2022-midterm-template#readme"
 }
+
+
